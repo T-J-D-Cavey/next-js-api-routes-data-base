@@ -6,9 +6,15 @@ class MyDocument extends Document {
       <Html lang='en'>
         <Head />
         <body>
+<<<<<<< HEAD
           <Main />
           <NextScript />
           <div id="notifications"></div>
+=======
+          <div id='overlays' />
+          <Main />
+          <NextScript />
+>>>>>>> my-local-branch
         </body>
       </Html>
     );
